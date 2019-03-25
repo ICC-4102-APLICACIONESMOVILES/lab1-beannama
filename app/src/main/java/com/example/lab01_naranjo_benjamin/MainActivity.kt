@@ -6,7 +6,7 @@ import android.os.Bundle
 import android.view.View
 import android.widget.EditText
 
-const val get_log_request = 1
+var get_log_request = 0
 
 class MainActivity : AppCompatActivity() {
 
